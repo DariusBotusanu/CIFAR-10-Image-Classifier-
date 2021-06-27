@@ -1,0 +1,13 @@
+,airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck
+airplane,6, 0, 0, 0, 0, 0, 1, 1, 2, 0
+automobile,0, 0, 1, 0, 0, 0, 2, 0, 3, 0
+bird,1, 0, 3, 0, 3, 0, 1, 0, 0, 0
+cat,0, 0, 4, 2, 0, 2, 1, 0, 0, 1
+deer,2, 0, 1, 0, 2, 0, 1, 0, 1, 0
+dog,0, 0, 3, 2, 1, 2, 0, 0, 0, 0
+frog,0, 0, 3, 0, 8, 0, 5, 0, 0, 0
+horse,1, 1, 0, 0, 3, 1, 1, 1, 1, 2
+ship,1, 1, 1, 0, 0, 0, 0, 0, 10, 0
+truck,0, 0, 0, 0, 1, 0, 0, 0, 9, 1
+Acc: 32%
+Time(sec): 19
