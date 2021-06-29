@@ -7,6 +7,7 @@ Keywords:
   - Other metrics
 - Naive Bayes
 - Binary files
+
 The program will be improved in the near future with the following features:
 - UI
 - Improved Naive Bayes algorithm
